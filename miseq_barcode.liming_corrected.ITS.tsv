@@ -1,12 +1,12 @@
-Sample_name	barcode-sequence
-15.8_ITS	GGTCGTAGTGCGTCAC
-j22_ITS	GGACGTTATGCGTCAC
-28X_ITS	CGTATCGCAAGCAGCA
-D_ITS	TAAGTCTCACGCGTGA
-BWV_ITS	ATATCGCGAAGCAGCA
-cmc_ITS	CGTATCGCACGCGTGA
-J_ITS	CACGATAGTGCGTCAC
-Blank_ITS	TAAGTCTCTGCGTCAC
-Phylloxerina_ITS	CGTATCGCTGCGTCAC
-Preticulata_ITS	CTGCGACTTGCGTCAC
-Pstanfordiana_ITS	GCTGTAACTGCGTCAC
+sample-id	barcode-sequence	state	host genus	host species	Gall location	genus	species	notes
+15.8_ITS	GGTCGTAGTGCGTCAC	FL	Carya	floridana	leaf	Phylloxera	7	new sp. 7
+28X_ITS	CGTATCGCAAGCAGCA	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	Phylloxera russellae
+Blank_ITS	TAAGTCTCTGCGTCAC	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	Phylloxera russellae
+BWV_ITS	ATATCGCGAAGCAGCA	TX	Carya	texana	leaf	Phylloxera	conica	Phylloxera conica?
+cmc_ITS	CGTATCGCACGCGTGA	MS	Carya	tomentosa	leaf	Phylloxera	caryaescissa	Phylloxera caryaescissa or P. caryaeglobuli
+D_ITS	TAAGTCTCACGCGTGA	MA	Carya	laciniosa	leaf	Phylloxera	?	
+J_ITS	CACGATAGTGCGTCAC	OR	Quercus	white oak*		Phylloxera	glabra	free living
+j22_ITS	GGACGTTATGCGTCAC		Carya	glabra	leaf	Phylloxera		new-sp.2
+Phylloxerina_ITS	CGTATCGCTGCGTCAC							
+Preticulata_ITS	CTGCGACTTGCGTCAC							
+Pstanfordiana_ITS	GCTGTAACTGCGTCAC							

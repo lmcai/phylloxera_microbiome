@@ -5,6 +5,7 @@ sample-id	barcode-sequence	state	host genus	host species	Gall location	genus	spe
 103_16S	AGTCTAGAATATACAC	SC	Carya	cordiformis	along midvein of leaf	Phylloxera	notabilis	Phylloxera notabilis
 11_16S	CTCTAGAGCGTCGCTA	AL	Carya	glabra	leaf	Phylloxera	spinosa	Phylloxera spinosa
 15.8_16S	GTATGACGCTAGAGCT	FL	Carya	floridana	leaf	Phylloxera	7	new sp. 7
+15.8_ITS	GGTCGTAGTGCGTCAC	FL	Carya	floridana	leaf	Phylloxera	7	new sp. 7
 154_16S	GAGCTCATATATACAC	TN	Carya	ovata	leaf	Phylloxera	4	new sp. 4
 174_16S	AGTCTAGACGTCGCTA	AL	Carya	illinoinensis	stem	Phylloxera	devastatrix	Phylloxera devastatrix
 176_16S	TAGACTGAACGACGTG	AL	Carya	laciniosa	along midvein of leaf	Phylloxera	notabilis	Phylloxera notabilis
@@ -12,16 +13,21 @@ sample-id	barcode-sequence	state	host genus	host species	Gall location	genus	spe
 1p5_16S	ACCTACTGACGACGTG	OK	Carya	texana	leaf	Phylloxera	spinosa	#Phylloxera spinosa
 22_16S	TAGACTGACGTCGCTA	AL	Carya	tomentosa	leaf	Phylloxera	caryaescissa	Phylloxera caryaescissa or P. caryaeglobuli
 28X_16S	CTAGCTCGACGACGTG	TX	Carya	texana	leaf	Phylloxera	conica	#Phylloxera conica?
+28X_ITS	CGTATCGCAAGCAGCA	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	Phylloxera russellae
 41_16S	CATGAGGACGTCGCTA	FL	Carya	glabra	leaf	Phylloxera	caryaescissa	Phylloxera caryaescissa or P. caryaeglobuli
 44_16S	ACCTACTGATATACAC	FL	Carya	cordiformis	midvein of leaf	Phylloxera	caryaemagna	Phylloxera caryaemagna
 72_16S	CTCTAGAGATATACAC	FL	Carya	glabra	lateral vein of leaf	Phylloxera	6	new sp. 6
 9_16S	GTATGACGCGTCGCTA	AL	Carya	glabra	leaf	Phylloxera	caryaesepta	Phylloxera caryaesepta var. perforans
 Blank_16S	TAGACTGACTAGAGCT	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	Phylloxera russellae
+Blank_ITS	TAAGTCTCTGCGTCAC	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	Phylloxera russellae
 BWV_16S	AGTCTAGAACGACGTG	OK	Carya	illinoinensis	leaf	Phylloxera	russellae	#Phylloxera russellae
+BWV_ITS	ATATCGCGAAGCAGCA	TX	Carya	texana	leaf	Phylloxera	conica	Phylloxera conica?
 C_16S	GTATGACGATATACAC	MA	Carya	ovata	petiole	Phylloxera	subelliptica	subelliptica
 cmc_16S	CTAGCTCGATATACAC	MS	Carya	tomentosa	leaf	Phylloxera	caryaescissa	Phylloxera caryaescissa or P. caryaeglobuli
+cmc_ITS	CGTATCGCACGCGTGA	MS	Carya	tomentosa	leaf	Phylloxera	caryaescissa	Phylloxera caryaescissa or P. caryaeglobuli
 cme_16S	CATGAGGAATATACAC	MS	Carya	tomentosa	leaf	Phylloxera	picta	Phylloxera picta
 D_16S	TAGACTGAATATACAC	MA	Carya	laciniosa	leaf	Phylloxera	?	
+D_ITS	TAAGTCTCACGCGTGA	MA	Carya	laciniosa	leaf	Phylloxera	?	
 E_16S	AGCGCTATCGTCGCTA	MA	Carya	cordiformis	petiole	Phylloxera	caryaemagna	caryaemagna
 F_16S	ACCTACTGCTAGAGCT	MA	Carya	glabra	leaf	Phylloxera	foveola	foveola
 G_16S	TCGAGCTCCGTCGCTA	MA	Carya	glabra	leaf	Phylloxera	foveata	foveata
@@ -29,7 +35,9 @@ H_16S	AGCGCTATCTAGAGCT	MA	Carya	glabra	leaf	Phylloxera	caryaevenae	caryaevenae
 I_16S	TCACGATGATATACAC	MA	Carya	glabra	leaf	Phylloxera	caryaecaulis	caryaecaulis
 IL_16S	AGTCTAGACTAGAGCT	IL				Daktulosphaira	vitifoliae	
 J_16S	CATGAGGACTAGAGCT	WA	Quercus	white oak or hybrid		Phylloxera	quercus	
+J_ITS	CACGATAGTGCGTCAC	OR	Quercus	white oak*		Phylloxera	glabra	free living
 j22_16S	GGTATGCTCTAGAGCT		Carya	glabra	leaf	Phylloxera	2	new sp. 2
+j22_ITS	GGACGTTATGCGTCAC		Carya	glabra	leaf	Phylloxera		new-sp.2
 M_16S	TCGAGCTCATATACAC	AZ	Vitis	vinifera		Daktulosphaira	vitifoliae	wild collected
 m07_16S(low)	GAGCTCATACGACGTG	AR	Carya	cordiformis	leaf	Phylloxera	caryaesepta	Phylloxera caryaesepta var. perforans
 m0b_16S(9ow)	GTATGACGACGACGTG	AR	Carya	ovata	stem	Phylloxera	caryaecaulis	Phylloxera caryaecaulis
@@ -39,8 +47,11 @@ mos_16S	GGTATGCTATATACAC	OK	Carya	cordiformis	leaf	Phylloxera	10	new sp. 10
 n8k_16S	CTAGCTCGCGTCGCTA	MS	Carya	ovata	lateral vein of leaf	Phylloxera	15	new sp. 15
 Pcart_16S	GGTATGCTCGTCGCTA	AL	Quercus	muehlenbergii	leaf	Phylloxera	castaneae	Phylloxera castaneae
 Phylloxerina_16S	CTAGCTCGCTAGAGCT							
+Phylloxerina_ITS	CGTATCGCTGCGTCAC							
 Preticulata_16S	CTCTAGAGCTAGAGCT							
+Preticulata_ITS	CTGCGACTTGCGTCAC							
 Pstanfordiana_16S	GAGCTCATCTAGAGCT							
+Pstanfordiana_ITS	GCTGTAACTGCGTCAC							
 rb4_16S	AGCGCTATATATACAC	MS	Carya	tomentosa	leaf	Phylloxera	18	new sp. 18?
 rbo_16S	GAGCTCATCGTCGCTA	MS	Carya	tomentosa	leaf	Phylloxera	pilosula	Phylloxera pilosula
 WI41_16S	ACCTACTGCGTCGCTA	MN	Vitis	riparia		Daktulosphaira	vitifoliae	colony bottleneck
